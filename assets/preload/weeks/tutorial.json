@@ -11,8 +11,8 @@
 	"weekBackground": "stage",
 
 	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
+	"weekBefore": "too slow",
+	"weekName": "might",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
